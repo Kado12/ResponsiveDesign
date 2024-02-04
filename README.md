@@ -3,7 +3,7 @@
 
 Proyecto en la cual se utilizó el formato Mobile First
 
-Sientanse libre de analizarlo
+Siéntanse libre de analizarlo
 
 ## Colores usados
 
